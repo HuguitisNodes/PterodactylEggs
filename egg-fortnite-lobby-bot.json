@@ -6,7 +6,7 @@
     },
     "exported_at": "2022-09-23T22:38:46+02:00",
     "name": "Fortnite LobbyBot",
-    "author": "huguitisgp@gmail.com",
+    "author": "mail@huguitisnodes.host",
     "description": "Run your own fortnite lobbybots with a configurable dashboard on pterodactyl!",
     "features": null,
     "docker_images": {
